@@ -21,4 +21,6 @@ function fire()
         p1.innerText = content1
         p1.style.color = "black"
     }
+    // Master add:
+    console.log("Master response");
 }
