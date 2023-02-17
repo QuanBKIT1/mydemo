@@ -21,4 +21,7 @@ function fire()
         p1.innerText = content1
         p1.style.color = "black"
     }
+
+    // Quan-branch: Modify 
+    console("I am here");
 }
