@@ -23,4 +23,7 @@ function fire()
     }
     // Master add:
     console.log("Master response");
+
+    // Quan-branch: Modify 
+    console("I am here");
 }
