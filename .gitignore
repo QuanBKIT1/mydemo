@@ -1,1 +1,2 @@
-demo/int/
+demo/int/*
+!demo/int/hiii.txt
